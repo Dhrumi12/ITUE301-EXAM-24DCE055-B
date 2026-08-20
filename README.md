@@ -1,7 +1,7 @@
 # Hospital Appointment System (MedCare Plus)
 
 **Course**: ITUE301 — Advanced Web Development Frameworks  
-**University**: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY (CSPIT-IT)  
+**University**: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY (DEPSTAR-CE)  
 **Semester**: 5th | AY 2026–27  
 **Student Roll No**: `24DCE055` | **Batch**: `B`  
 **Tech Stack**: React + Express.js + MongoDB (Mongoose)

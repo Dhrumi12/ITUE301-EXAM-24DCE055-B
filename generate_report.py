@@ -269,7 +269,7 @@ elements = []
 
 # Title & Institution Header
 elements.append(Paragraph("CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY", title_style))
-elements.append(Paragraph("Faculty of Technology and Engineering — CSPIT-IT", subtitle_style))
+elements.append(Paragraph("Faculty of Technology and Engineering — DEPSTAR-CE", subtitle_style))
 elements.append(Paragraph("ITUE301 — Advanced Web Development Frameworks | AY 2026–27", subtitle_style))
 elements.append(Spacer(1, 10))
 

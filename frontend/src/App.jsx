@@ -18,7 +18,7 @@ function App() {
         </Routes>
       </main>
       <footer className="footer">
-        <p>CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY — CSPIT-IT</p>
+        <p>CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY — DEPSTAR-CE</p>
         <p>ITUE301 Advanced Web Development Frameworks | Roll No: 24DCE055 | Batch B</p>
       </footer>
     </Router>
