@@ -3,7 +3,7 @@
 **Course**: ITUE301 — Advanced Web Development Frameworks  
 **University**: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY (CSPIT-IT)  
 **Semester**: 5th | AY 2026–27  
-**Student Roll No**: `24DCE055` | **Batch**: `C`  
+**Student Roll No**: `24DCE055` | **Batch**: `B`  
 **Tech Stack**: React + Express.js + MongoDB (Mongoose)
 
 ---
@@ -22,7 +22,7 @@ MedCare Plus is a full-stack Hospital Appointment Management application designe
 
 ## Submission Details
 
-- **GitHub Repository**: `itue301-exam-24DCE055-C`
+- **GitHub Repository**: `itue301-exam-24DCE055-B`
 - **PDF Report**: `24DCE055_SetA_Report.pdf`
 
 ---

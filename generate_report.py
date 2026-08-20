@@ -276,7 +276,7 @@ elements.append(Spacer(1, 10))
 # Exam Details Box
 meta_data = [
     [Paragraph("<b>Examination:</b> OPEN-BOOK PRACTICAL EXAM", meta_style), Paragraph("<b>Set:</b> SET A — Hospital Appointment System", meta_style)],
-    [Paragraph("<b>Student Roll No:</b> 24DCE055", meta_style), Paragraph("<b>Batch:</b> Batch C", meta_style)],
+    [Paragraph("<b>Student Roll No:</b> 24DCE055", meta_style), Paragraph("<b>Batch:</b> Batch B", meta_style)],
     [Paragraph("<b>Tech Stack:</b> React + Express.js + MongoDB", meta_style), Paragraph("<b>Date:</b> August 20, 2026", meta_style)]
 ]
 
